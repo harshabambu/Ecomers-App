@@ -1,0 +1,30 @@
+#regis{
+    border:2px solid rgb(2, 1, 1);
+    width:600px;
+   background: linear-gradient(90deg, rgb(171, 124, 203) 20%, rgb(199, 106, 184) 50%);
+}
+h1{
+    display: block;
+    padding:20px;
+   
+}
+.parent{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 500px;
+  justify-content: space-between;
+}
+.c1,.c2,.c3,.c4,.c5,.c6,.c7{
+  margin: 10px;
+  font-weight: bolder;
+}
+.c41,.c42{
+    display: inline;
+    padding: 15px;
+}
+button{
+     margin: 10px;
+     padding: 10px;    
+}
+

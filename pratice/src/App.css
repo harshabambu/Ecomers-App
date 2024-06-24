@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+.parent{
+    border: 2px solid black;
+    margin: 20%;
+    padding: 5%;
+    box-shadow:1px 1px 10px 1px rgb(136, 9, 255);
+    background-color: rgb(189, 178, 245);
+
+}
+.child{
+    border: 2px solid black;
+    padding: 20px;
+    box-shadow:1px 1px 10px 1px blueviolet;
+    background-color: rgb(189, 178, 245);
+
+}
+button{
+    padding:7px;
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    cursor: pointer;
+    background-color: black;
+    color: rgb(249, 233, 251);
+    box-shadow:1px 1px 10px 1px blueviolet;
+}
